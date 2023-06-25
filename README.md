@@ -1,4 +1,0 @@
-# Clock
-nkefkejkfjen
-jnkvvnkd
-jlnkfkfwfwfee  
