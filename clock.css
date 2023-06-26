@@ -7,10 +7,10 @@
 html,
 body {
     background-image: url('images/start2322.jpg');
-    background-size: 100% 100%;
     background-position: center;
     background-repeat: no-repeat;
-    background-attachment: fixed; 
+    background-attachment: fixed;
+    background-size: 100% 100%;
     min-height: 100vh;
     min-width: max-content;
     display: flex;
