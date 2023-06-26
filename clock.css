@@ -17,6 +17,7 @@ body {
     align-items: center;
     place-content: center;
     font-family: sans-serif;
+    overflow: auto !important;
 }
 
 .circle {
